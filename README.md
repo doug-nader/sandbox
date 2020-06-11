@@ -24,3 +24,4 @@ A Vagrant VM configuration file is used to test your configuration file locally 
 * test suite file glob is correct
 * test suite command is correct
 * YAML is valid etc.
+
